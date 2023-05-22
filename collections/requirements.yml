@@ -1,3 +1,4 @@
 collections:
   - name: cisco.nxos
   - name: brocade.fos
+  - name: joon_joon.joon_collection
